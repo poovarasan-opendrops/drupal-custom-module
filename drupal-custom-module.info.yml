@@ -1,0 +1,5 @@
+name: drupal custom module
+type: module
+description: Module for implementing Custom Service.
+core_version_requirement: ^9 || ^10
+package: Custom
